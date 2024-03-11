@@ -21,7 +21,7 @@
                     <label><b>Mật khẩu</b></label>
                     <input type="text" name="txtPassword" class="form-control" required>
                 </div>
-                <button type="submit" class="btn btn-primary mt-3" name="btnLogin">Login</button>
+                <button type="submit" class="btn btn-primary mt-3" name="btnLogin">Đăng nhập</button>
             </form>
         </div>
     </div>
