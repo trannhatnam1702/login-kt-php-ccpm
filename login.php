@@ -18,9 +18,10 @@
                     <input type="text" name="txtUsername" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label><b>Mật khẩu</b></label>
-                    <input type="text" name="txtmatkhau" class="form-control" required>
+                    <label><b>Password</b></label>
+                    <input type="text" name="txtPassword" class="form-control" required>
                 </div>
+                <button type="submit" class="btn btn-primary mt-3" name="btnLogin">Login</button>
             </form>
         </div>
     </div>
