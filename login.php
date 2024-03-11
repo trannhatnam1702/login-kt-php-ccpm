@@ -7,21 +7,20 @@
     <title>Login</title>
 </head>
 <body>
-
+    
 <div class="d-flex align-items-center justify-content-center" style="height: 100vh;">
     <div class="card" style="width: 20rem;">
         <div class="card-body">
             <h5>Đăng nhập</h5>
             <form action="result.php" method="post">
                 <div class="form-group">
-                    <label><b>Tên đăng nhập</b></label>
+                    <label><b>Username</b></label>
                     <input type="text" name="txtUsername" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label><b>Mật khẩu</b></label>
-                    <input type="text" name="txtPassword" class="form-control" required>
+                    <input type="text" name="txtmatkhau" class="form-control" required>
                 </div>
-                <button type="submit" class="btn btn-primary mt-3" name="btnLogin">Đăng nhập</button>
             </form>
         </div>
     </div>
