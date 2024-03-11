@@ -14,7 +14,7 @@
             <h5>Đăng nhập</h5>
             <form action="result.php" method="post">
                 <div class="form-group">
-                    <label><b>Username</b></label>
+                    <label><b>Tên đăng nhập</b></label>
                     <input type="text" name="txtUsername" class="form-control" required>
                 </div>
                 <div class="form-group">
